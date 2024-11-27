@@ -1,5 +1,5 @@
 #Find Length of String
-Q#uestion: Write a function to find the length of a string.
+#question: Write a function to find the length of a string.
 
 Solution:
 
